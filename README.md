@@ -7,7 +7,7 @@ pkg install python2
 pkg install python          
 pkg install bs4           
 pkg install git          
-git clone https://github.com/YoshiiTzy/share666       
+git clone https://github.com/Yoshii-XD/share666       
 cd share666
 ```
 # run script😇
